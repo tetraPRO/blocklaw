@@ -2,7 +2,7 @@
 A true de-jure digital justice system
 
 It has been said that power corrupts and absolute power corrupts absolutely.
-We have a system of justice that has been corrupted.  More and more citizens are starting to asks questions.  Like "how can I be held in comtempt of court for mentioning the Consitution?"  The answer is becuase you signed up for a franchise/contract with the federal government and your legal domicile is now in the District of Criminals where the constitution and the bill of rights have no effect!  The courts are using your very own legal ignorance against you for their benifit!
+We have a system of justice that has been corrupted.  More and more citizens are starting to asks questions.  Like "how can I be held in comtempt of court for mentioning the Consitution?"  The answer is because you signed up for a franchise/contract with the federal government and your legal domicile is now in the District of Criminals where the constitution and the bill of rights have no effect!  The courts are using your very own legal ignorance against you for their benifit!
 We are building a digital justice system such that when facts are entered into the network that after consensus with the network and have been determined to be true will be rewarded with a cryptocurrency.  Those facts that turn out to be false and malicious will incur a cost.  If justice isn't enough to warrent integrity, perhaps a financial incentive will be.
 
 # The Network
