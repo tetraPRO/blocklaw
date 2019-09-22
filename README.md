@@ -19,18 +19,18 @@ This alogrithm will be constructed not with a random math puzzle with a nounce v
 
 The order of necessity for pods to be loaded will be:
 1. Constitution
-1. The Satutes at Large
-1. Blacks Law Dictionary
-1. Statutory Rules of Construction
+2. The Satutes at Large
+3. Blacks Law Dictionary
+4. Statutory Rules of Construction
 
 followed then by,
-2. Uniform Commercial Code
+1. Uniform Commercial Code
 2. United States Code
-2. Code of Federal Regulations
+3. Code of Federal Regulations
 
 and finially by,
-3. Supreme Court Rulings
-3. District Court Rulings
+1. Supreme Court Rulings
+2. District Court Rulings
 3. Circut Court Rulings
 
 This will complete the entire "kernal" - if you will - or gensis block.  The other 2 pods will not be able to function unless and until the "kernal" of facts is known and complete.  The identification pods will have to be implemented first because everyone interfacing with the network will have to be known in order to adjudicate justice within the system.  This identification will not require your social security or other identificating numbers.   You will be absolutely sovereign once again, the way our founding fathers once intended.  You will never see social security, medicare, or income taxes ever again - unless you hold a public office within the National government or live on privalaged federal property.  You will own 100% of all your property without sharing any with the government.  Life will be good once again.  You will have come to see what the real matrix has come to be and you will see why accountability is so very important right now.
