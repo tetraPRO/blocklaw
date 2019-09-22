@@ -13,7 +13,7 @@ This network will have two different consensus algorithms, one to verify that th
 Eventually the network will be aware of all relevant facts of law to the current date, at which point it will be ready to be used as the authority of justice in a court of law.  When a corrupt judge/adminster attempts to make a ruling or an adjudication that is inconsistent with already accepted true facts according to all the rules of our legal system, he/she will have to pay the network or make a different ruling, one that fits with accepted law.
 
 # Pods
-The network will have to have at least 10 different blockchains that I am calling pods.  This must be so becuase the data content and size would be much to large for users to download in order to participate in the network.  These 11 pods will be
+The network will have to have at least 11 different blockchains that I am calling pods.  This must be so becuase the data content and size would be much to large for users to download in order to participate in the network.  These 11 pods will be
 1. Constitution
 2. Statutes at Large
 3. Rules of statutory construction & Maximums of Law
