@@ -7,7 +7,21 @@ We have a system of justice that has been corrupted.  More and more citizens are
 We are building a digital justice system such that when facts are entered into the network that after consensus with the network and have been determined to be true will be rewarded with a cryptocurrency.  Those facts that turn out to be false and malicious will incur a cost.  If justice isn't enough to warrent integrity, perhaps a financial incentive will be.
 
 # The Network
-The network will consist of 13 different blockchains called pods.  These must be seperate becuase of the data content and size.  Each pod will have to have its own set of nodes for consensus.  Miners will verify that the chain is valid and will periodically be rewarded with a cryptocurrency with enough to reward the individuals who submitted true facts as well.  This gives incentive to users who wish to add data to the network.  The network will not allow the user to submit false facts because the network will not accept contradictory statements. 
+The network will consist of 13 different blockchains called pods.  These must be seperate becuase of the data content and size.  Each pod will have to have its own set of nodes for consensus.  Miners will verify that the chain is valid and will periodically be rewarded with a cryptocurrency with enough to reward the individuals who submitted true facts as well.  This gives incentive to users who wish to add data to the network.  The network will not allow the user to submit false facts because the network will not accept contradictory statements.
+
+"The Record" will be the truth as it will be a statement of immutatble true facts.  Any fact can be added to the network only under specific rules.  First the fact must not already be present in the record, if it does not exist the fact will be check with its own pod first to find if there are any contridictions.  If there are no contridictions then, the fact will be check against the other pods in order of precesidance
+1) Rules & Maxims
+2) Blacks Law
+3) Constitution
+4) Statutes at Large
+5) Uniform Commercial Code
+6) United States Code
+7) Code of Federal Regulations
+8) Supreme court rulings
+9) District court rulings
+10) Circut court rulings
+
+A fact becomes a true fact if it exist in the record.  Any and all facts can be added to the record if and only if there is not a contridiction.
 
 # Consensus
 This network will have two different consensus algorithms, one to verify that the pods have true and valid facts and the other to cross reference the other pods to verify facts from other pods.  For example, a rule of statutory construction says that the implementing regulations in the CFR can NOT be greater or more expanded than the code written in the USC.  If they are the US Supreme court has held that the implementing regulation is void or null becuase it violates the rules of statutory construction.
